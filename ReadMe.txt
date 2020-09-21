@@ -8,3 +8,9 @@
 This repository contains details of my thesis
 
 Begins with a summary of my first 4 years of work.
+
+Intro and lit review
+
+Results
+
+Conclusions
