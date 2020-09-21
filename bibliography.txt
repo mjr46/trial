@@ -1,1 +1,3 @@
 Added a bibliography file.
+
+[1] Author, Some new fancy paper and some other random stuff, 2020
