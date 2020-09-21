@@ -11,6 +11,8 @@ Begins with a summary of my first 4 years of work.
 
 Intro and lit review
 
+Tom thinks a methodology is needed.
+
 Results
 
 Conclusions
